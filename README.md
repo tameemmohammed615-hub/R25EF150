@@ -7,4 +7,4 @@ I am a B.Tech student at REVA University, pursuing Computer Science and Engineer
 ## Projects
 
 - **Portfolio Website:** Built using HTML, Markdown, and GitHub Pages.
-- **Python Scripts:** Developing scripts for cloud automation and data tasks.
+- **Python Scripts:** Developing scripts for cloud automation and data tasks. -**Future WORK:**learning cloud technologies.
